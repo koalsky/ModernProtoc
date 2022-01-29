@@ -24,6 +24,7 @@
                 <version>3.2.0</version>
                 <configuration>
                     <additionalOptions>
+                        <source>17</source>
                         <additionalOption>--enable-preview</additionalOption>
                     </additionalOptions>
                 </configuration>
